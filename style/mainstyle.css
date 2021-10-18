@@ -87,7 +87,7 @@ a:hover {
 
 .about {
     min-height: 811px;
-    background-image: url("img/catmain.jpg");
+    background-image: url("../img/catmain.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
